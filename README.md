@@ -46,7 +46,7 @@ Then open the project in your browser.
 ```bash
 project-folder/
 ├── index.html
-├── 1index.html
+└── 1index.html
 ```
 
 ## Customization
@@ -60,7 +60,7 @@ You can update:
 
 ## Contact
 
-- GitHub: [your-github](https://github.com/Hridesh-Thakur)
+- [GitHub ](https://github.com/Hridesh-Thakur)
 - Email: hrithakur01@gmail.com
 
 ## License
