@@ -64,7 +64,7 @@ You can update:
 - Email: hrithakur01@gmail.com
 
 ## Live Demo
-- [Click me  ](https://projects-showcase-website.vercel.app/)
+- [-> Click me <- ](https://projects-showcase-website.vercel.app/)
 
 ## License
 
