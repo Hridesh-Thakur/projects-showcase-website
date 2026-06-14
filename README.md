@@ -49,7 +49,7 @@ project-folder/
 └── 1index.html
 ```
 
-## Customization
+## Customization   
 
 You can update:
 - Project titles and descriptions.
