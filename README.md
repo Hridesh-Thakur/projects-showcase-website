@@ -23,7 +23,7 @@ It includes a project gallery, category filters, search, featured projects, and 
 - CSS
 - JavaScript
 
-## Project Categories
+## Project Categories   
 
 - HTML/CSS/JS
 - Python
