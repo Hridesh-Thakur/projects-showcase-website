@@ -62,7 +62,9 @@ You can update:
 
 - [GitHub ](https://github.com/Hridesh-Thakur)
 - Email: hrithakur01@gmail.com
-- [Live Demo  ](https://projects-showcase-website.vercel.app/)
+
+## Live Demo
+- [Click me  ](https://projects-showcase-website.vercel.app/)
 
 ## License
 
