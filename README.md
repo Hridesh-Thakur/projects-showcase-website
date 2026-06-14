@@ -32,7 +32,7 @@ It includes a project gallery, category filters, search, featured projects, and 
 - Games
 - Tools
 
-## How to Use
+## How to Use   
 
 1. Clone the repository.
 2. Open `index.html` in your browser.
