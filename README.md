@@ -17,7 +17,7 @@ It includes a project gallery, category filters, search, featured projects, and 
 - Project cards with live source and demo links.
 - Smooth animations and polished UI.
 
-## Tech Stack
+## Tech Stack    
 
 - HTML
 - CSS
