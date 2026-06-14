@@ -2,7 +2,7 @@
 
 A modern personal portfolio website to showcase projects, skills, and contact information in one clean, responsive interface.
 
-## Overview
+## Overview   
 
 This portfolio is designed to present my work in a simple and professional way.  
 It includes a project gallery, category filters, search, featured projects, and a dark mode toggle for better viewing comfort.
