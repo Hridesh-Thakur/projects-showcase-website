@@ -4,7 +4,7 @@ A modern personal portfolio website to showcase projects, skills, and contact in
 
 ## Overview   
 
-This portfolio is designed to present my work in a simple and professional way.  
+This portfolio is designed to present my work simply and professionally.  
 It includes a project gallery, category filters, search, featured projects, and a dark mode toggle for better viewing comfort.
 
 ## Features   
